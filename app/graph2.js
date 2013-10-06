@@ -1,6 +1,6 @@
 loadData(
     {
-        name: 'sample1',
+        name: 'graph2',
         nodes: [
             { id: 'node1', value: { label: 'node1' } },
             { id: 'node2', value: { label: 'node2' } }
