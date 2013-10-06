@@ -2,7 +2,7 @@ d3-dag-visualization
 ===============
 
 DAG (Directed acyclic graph) JavaScript visualization with D3.
-[dagre-D3](https://github.com/cpettitt/dagre-d3) is used for graph layout and rendering.
+[dagre-d3](https://github.com/cpettitt/dagre-d3) is used for graph layout and rendering.
 Good for displaying flowchart and PERT chart-like graphs.
 
 ## Example Graph
@@ -20,4 +20,4 @@ Good for displaying flowchart and PERT chart-like graphs.
 
 [dagre](https://github.com/cpettitt/dagre) Graph layout for JavaScript
 
-[dagre-D3](https://github.com/cpettitt/dagre-d3) D3-based renderer for dagre
+[dagre-d3](https://github.com/cpettitt/dagre-d3) D3-based renderer for dagre
