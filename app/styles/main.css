@@ -1,0 +1,45 @@
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.browsehappy {
+    margin: 0.2em 0;
+    background: #ccc;
+    color: #000;
+    padding: 0.2em 0;
+}
+
+#dag-name {
+    font-weight: bold;
+}
+
+#dag svg {
+    border: 1px solid #999;
+}
+
+#dag text {
+    font-weight: 300;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serf;
+    font-size: 14px;
+}
+
+#dag rect {
+    fill: #fff;
+}
+
+#dag .node rect {
+    stroke-width: 2px;
+    stroke: #333;
+    fill: none;
+}
+
+#dag .edge rect {
+    fill: #fff;
+}
+
+#dag .edge path {
+    fill: none;
+    stroke: #333;
+    stroke-width: 1.5px;
+}
